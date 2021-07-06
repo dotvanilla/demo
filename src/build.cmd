@@ -6,3 +6,5 @@ SET target="../src/base64/base64.vbproj"
 
 REM https://vanillavb.app/#use_compiler
 %vbc% %target% /profile "Release|AnyCPU"
+
+pause
